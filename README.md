@@ -5,6 +5,7 @@ This is a simple implementation of a Tic-Tac-Toe game using HTML, CSS, and JavaS
 ## Table of Contents
 - [Features](#features)
 - [How to Play](#how-to-play)
+- [Demo](#demo)
 - [Files](#files)
 - [How to Run](#how-to-run)
 - [Game Logic](#game-logic)
@@ -23,6 +24,10 @@ This is a simple implementation of a Tic-Tac-Toe game using HTML, CSS, and JavaS
 3. The first player to align 3 symbols either horizontally, vertically, or diagonally wins.
 4. If all boxes are filled and there is no winner, the game will declare a draw.
 5. You can reset the game using the "Reset Game" or "New Game" button at any time.
+
+## Demo
+
+You can view a live demo of the project [here](https://tic-tac-toe-game-by-varnik.netlify.app/).
 
 ## Files
 
