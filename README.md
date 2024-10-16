@@ -32,7 +32,9 @@ This is a simple implementation of a Tic-Tac-Toe game using HTML, CSS, and JavaS
 
 ## How to Run
 1. Clone the repository.
-   
+```
+https://github.com/Varnik2500/Tic-Tac-Toe.git
+```
 3. Open the `index.html` file in any modern web browser (e.g., Chrome, Firefox, Edge).
 4. Enjoy playing the game.
 
