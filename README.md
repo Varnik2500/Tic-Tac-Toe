@@ -38,7 +38,7 @@ You can view a live demo of the project [here](https://tic-tac-toe-game-by-varni
 ## How to Run
 1. Clone the repository.
 ```
-https://github.com/Varnik2500/Tic-Tac-Toe.git
+git clone https://github.com/Varnik2500/Tic-Tac-Toe.git
 ```
 3. Open the `index.html` file in any modern web browser (e.g., Chrome, Firefox, Edge).
 4. Enjoy playing the game.
